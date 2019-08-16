@@ -31,6 +31,8 @@ sudo pip3 install pipenv
 pipenv shell
 ```
 
+para salir del pipenv utilizar `exit`.
+
 5. En el documento `scraper.py` reemplazar las variables en por las rutas donde los archivos se guardaran 
 
 ```python
